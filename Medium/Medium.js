@@ -8,3 +8,10 @@
 // Example 2:
 // Input: nums = [4,5,6,7,0,1,2], target = 3
 // Output: -1.
+
+
+function targetValue(nums, target) {
+
+    return nums.indexof(target);
+    //index.of returns -1 if the value to search for never occurs
+};
